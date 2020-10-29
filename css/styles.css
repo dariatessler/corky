@@ -1,0 +1,99 @@
+.topline {
+  margin: auto;
+  width: 50%;
+  border: 2px solid rgb(255, 221, 252);
+  background-color: rgb(244, 255, 179)
+  
+}
+
+h1 {
+  color: #e89dec;
+  text-align: center;
+  font-weight: normal
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-weight: normal
+}
+
+h3 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.left-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.intro {
+  margin: auto;
+  width: 70%;
+  font-family: sans-serif;
+  color: grey;
+  text-align: center;
+  font-size: 14px;
+}
+
+p.important {
+  font-family: sans-serif;
+  color: #b514bb;
+  text-align: center;
+  font-weight: bold
+}
+
+p.unimportant {
+  font-family: sans-serif;
+  color: grey;
+  text-align: center;
+  font-weight: normal
+}
+
+.sidebar {
+  font-family: sans-serif;
+  width: 20%;
+  float: right;
+  color: #b10000;
+  text-align: center;
+  background-color: #fdddff;
+  margin: 20px; 
+  padding: 9px;
+}
+
+.likelist {
+  margin: auto;
+  width: 45%; 
+  padding: 4px;
+  display: block;
+  text-align: center;
+  background-color: #fdddff;
+}
+
+.hatelist {
+  margin: auto;
+  width: 45%; 
+  padding: 4px;
+  display: block;
+  text-align: center;
+  background-color: #ebff93;
+}
+
+ul.a {
+  list-style-type: circle
+}
+
+em {
+  color: #b10000;
+}
